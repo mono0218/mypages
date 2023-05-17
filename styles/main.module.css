@@ -1,0 +1,14 @@
+.all{
+    display: flex;
+    justify-content: space-between;
+    margin: 6% 2%;
+}
+
+.title{
+    border-bottom: 1px solid #333;
+}
+
+.yazi{
+    display: inline;
+    text-align: center;
+}
